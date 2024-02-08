@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Preview: Results Summary Component]desktop-preview-results-summary.png
-![Mobile Preview: Results Summary Component]mobile-preview-results-summary.png
+![Desktop Preview: Results Summary Component](desktop-preview-results-summary.png)
+![Mobile Preview: Results Summary Component](mobile-preview-results-summary.png)
 
 ### Links
 
