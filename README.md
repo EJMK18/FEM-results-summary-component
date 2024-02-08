@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github files](https://github.com/EJMK18/FEM-blog-card)
+- Solution URL: [Github files](https://github.com/EJMK18/FEM-results-summary-component/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
